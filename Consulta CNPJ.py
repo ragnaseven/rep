@@ -2,7 +2,7 @@ import requests
 
 def main():
     print('####################')
-    print('### Consulta CEP ###')
+    print('### Consulta CNPJ ###')
     print('####################\n')
 
     input_cnpj = input('Digite seu CNPJ: ')
